@@ -107,7 +107,8 @@
             "pages": [
               "guides/stellar-mainnet-deployment",
             "guides/stellar-multisig-withdrawal",
-            "guides/stellar-offline-signing"
+            "guides/stellar-offline-signing",
+            "guides/stellar-tx-simulation"
             ]
           }
         ]
