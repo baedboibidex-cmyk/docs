@@ -105,7 +105,8 @@
           {
             "group": "Operations",
             "pages": [
-              "guides/stellar-mainnet-deployment"
+              "guides/stellar-mainnet-deployment",
+            "guides/stellar-multisig-withdrawal"
             ]
           }
         ]
